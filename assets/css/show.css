@@ -25,3 +25,7 @@ button{
 img{
 	border-radius: 10px;
 }
+#slide_image{
+	max-width: 600px;
+	
+}
