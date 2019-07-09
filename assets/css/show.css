@@ -25,7 +25,10 @@ button{
 img{
 	border-radius: 10px;
 }
+#wrapper{
+	text-align: center;
+	margin-top: 10px;
+}
 #slide_image{
-	max-width: 600px;
-	
+	height: 500px;
 }
